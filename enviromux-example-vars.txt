@@ -1,0 +1,6 @@
+export ENVIROMUX_LOGIN_URL="http://<enviromux-url>/goform/login"
+export ENVIROMUX_JSON_URL="http://<enviromux-url>/json/get/appAll.json"
+export ENVIROMUX_IP="<ip>"
+export ENVIROMUX_USER="<user>"
+export ENVIROMUX_PSWD="<password>"
+export ENVIROMUX_LISTENING_PORT=9994
